@@ -28,12 +28,12 @@ C++ and Tars server components for live Texas Hold'em events, tournament rooms, 
 
 `德州赛事` `Poker Tournament Platform` `C++` `Tars` `Protobuf` `MySQL`
 
-## 更多德州扑克源码
-
+## 德州金币大厅|德州积分大厅
+ 德州大厅、俱乐部、多种玩法、MTT/SNG 和配套模块
 | 项目 | 主要内容 |
 | --- | --- |
-| [Texas Hold'em Poker Club Platform](https://github.com/masterai-top/Texas-Holdem-Poker-Club-Platform) | 德州扑克俱乐部、私人房、多人牌局与平台运营流程 |
 | [Texas Hold'em Poker Complete Source Code](https://github.com/masterai-top/Texas-Holdem-Poker-Complete-Source-Code) | 德州大厅、俱乐部、多种玩法、MTT/SNG 和配套模块 |
+| [Texas Hold'em Poker Club Platform](https://github.com/masterai-top/Texas-Holdem-Poker-Club-Platform) | 德州扑克俱乐部、私人房、多人牌局与平台运营流程 |
 | [WPK / HHPoker Style Poker Club System](https://github.com/masterai-top/WPK-HHPoker-Style-Poker-Club-System) | 私人俱乐部、联盟和牌局管理相关系统 |
 
 ## 捕鱼游戏平台
