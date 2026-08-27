@@ -1,8 +1,8 @@
-# MasterAI 德州源码、德州赛事、完整解决方案与游戏 AI
+# MasterAI 德州源码、德州赛事、德州俱乐部完整解决方案与捕鱼，周易和德州 AI
 
 Texas Hold'em source code, tournament platforms, complete poker solutions, arcade fishing systems, Chinese metaphysics software, and poker AI research by MasterAI.
 
-[德州完整解决方案](#德州扑克完整解决方案) · [德州赛事](#德州扑克赛事平台) · [德州源码](#更多德州扑克源码) · [捕鱼](#捕鱼游戏平台) · [周易](#周易与命理软件) · [德州 AI](#德州扑克-ai) · [其他项目](#其他游戏与软件主题)
+[德州完整解决方案](#德州扑克完整解决方案) · [德州赛事](#德州扑克赛事平台) · [德州俱乐部源码](#更多德州扑克源码) · [捕鱼](#捕鱼游戏平台) · [周易](#周易与命理软件) · [德州 AI](#德州扑克-ai) · [其他项目](#其他游戏与软件主题)
 
 ## 德州扑克完整解决方案
 
@@ -35,7 +35,7 @@ C++ and Tars server components for live Texas Hold'em events, tournament rooms, 
 | [Texas Hold'em Poker Complete Source Code](https://github.com/masterai-top/Texas-Holdem-Poker-Complete-Source-Code) | 德州大厅、俱乐部、多种玩法、MTT/SNG 和配套模块 |
 | [Texas Hold'em Poker Club Platform](https://github.com/masterai-top/Texas-Holdem-Poker-Club-Platform) | 德州扑克俱乐部、私人房、多人牌局与平台运营流程 |
 | [WPK / HHPoker Style Poker Club System](https://github.com/masterai-top/WPK-HHPoker-Style-Poker-Club-System) | 私人俱乐部、联盟和牌局管理相关系统 |
-
+`德州金币大厅` `Poker CLub` `C++` `Tars` `Protobuf` `MySQL`
 ## 捕鱼游戏平台
 
 ### OceanRaid Arcade Fishing Game Platform
