@@ -132,8 +132,5 @@ OceanRaid 项目记录 Cocos/Lua 客户端、Python/C++ 服务端、Node.js 运�
 Licenses may differ by repository. Review the applicable license, third-party notices and local requirements before use, modification, redistribution or deployment.
 
 
-每个仓库分别说明公开源码范围、依赖、支持平台和许可证。商业部署、第三方资源、支付、游戏规则、隐私、非法人保护及地区合规要求需要按项目单独审查。公开文档不替代书面商业协议和技术验收清单。
-
-
 
 
