@@ -115,6 +115,13 @@ OceanRaid 项目记录 Cocos/Lua 客户端、Python/C++ 服务端、Node.js 运�
 - 版本化下载应从对应项目的 GitHub Releases 页面获取。
 - 使用前请阅读对应项目的 README、LICENSE、SECURITY 和已知限制。
 
+- 
+## 联系方式
+
+电报：@xuzongbin001
+电子邮件：masterai918@gmail.com
+网站：https://masterai-top.github.io/masterai-top/
+核心方向：德州源码、德州大厅、德州赛事平台、德州俱乐部、德州AI、捕鱼游戏源码、周易软件。
 
 ## License and Responsible Use
 
@@ -128,9 +135,5 @@ Licenses may differ by repository. Review the applicable license, third-party no
 每个仓库分别说明公开源码范围、依赖、支持平台和许可证。商业部署、第三方资源、支付、游戏规则、隐私、非法人保护及地区合规要求需要按项目单独审查。公开文档不替代书面商业协议和技术验收清单。
 
 
-联系方式
-电报：@xuzongbin001
-电子邮件：masterai918@gmail.com
-网站：https://masterai-top.github.io/masterai-top/
-核心方向：德州源码、德州大厅、德州赛事平台、德州俱乐部、德州AI、捕鱼游戏源码、周易软件。
+
 
