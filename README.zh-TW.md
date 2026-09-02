@@ -1,6 +1,6 @@
 [简体中文](README.md) | [繁體中文](README.zh-TW.md) | [English](README.en.md)
 
-# MasterAI 德州遊戲原始碼、撲克 AI 與周易占卜軟體專案導覽
+# MasterAI 德州遊戲原始碼、德州俱乐部、德州金币大厅、撲克 AI 與周易占卜軟體專案導覽
 
 MasterAI 開發並整理德州撲克平台、德州積分大廳、 撲克賽事系統、CFR 撲克 AI、多人釣魚遊戲及中國傳統文化軟體。
 每個專案的功能、技術堆疊、運作條件和授權範圍以對應倉庫的程式碼與文件為準。
@@ -132,7 +132,7 @@ Licenses may differ by repository. Review the applicable license, third-party no
 公開文件不取代書面商業協議和技術驗收清單。
 
 
-聯絡方式
+## 聯絡方式
 
 電報：@xuzongbin001
 
