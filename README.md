@@ -1,11 +1,6 @@
-[简体中文](README.md) | [English](README.en.md) | [繁體中文](README.zh-TW.md)
+[简体中文](README.md) | [繁體中文](README.zh-TW.md) | [English](README.en.md)
 
-# 账号入口与项目导航 | masterai-top
-
-本项目聚焦账号入口与项目导航，保留线上现有 README 的功能、架构、截图与使用说明，并以仓库实际代码为准。
-
-> 项目功能、性能、运营记录与部署能力应结合当前版本独立验证；许可证和第三方素材范围以仓库文件为准。
-
+# MasterAI 德州游戏源码、德州积分大厅、捕鱼、扑克 AI 与周易排盘软件项目导航
 
 MasterAI 开发和整理德州扑克平台、德州积分大厅、 扑克赛事系统、CFR 扑克 AI、多人捕鱼游戏及中国传统文化软件。每个项目的功能、技术栈、运行条件和授权范围以对应仓库的代码与文档为准。
 
@@ -21,7 +16,7 @@ MasterAI develops and documents Texas Hold'em platforms, poker tournament system
 | [德州扑克完整解决方案](https://github.com/masterai-top/TexasHoldem-Poker-Complete-Solution) | 俱乐部、私人房、好友局、SNG 与 MTT 流程 | Unity、C++ |
 | [德州扑克赛事平台](https://github.com/masterai-top/Texas-Holdem-Poker-Tournament-Event-Platform) | 报名、牌桌、排名与锦标赛流程 | C++、Tars |
 | [德州积分大厅](https://github.com/masterai-top/Texas-Hold-em-Points-Lobby) | 德州积分大厅、金币大厅、俱乐部、联盟、朋友局、SNG、MTT 和配套运营模块  | Unity、C++ |
-| [CFR 德州扑克 AI](https://github.com/masterai-top/cfr-poker-ai-masterai) | CFR 策略训练、评估与博弈研究 | C++,python |
+| [CFR 德州扑克 AI](https://github.com/masterai-top/cfr-poker-ai-masterai) | CFR 策略训练、评估与博弈研究 | C++ ，python|
 | [OceanRaid 捕鱼游戏平台](https://github.com/masterai-top/OceanRaid-Fishing-Game-Platform) | 客户端、游戏服务、比赛模式与运营后台 | Cocos/Lua、Python/C++、Node.js |
 | [八字、紫微与奇门排盘系统](https://github.com/masterai-top/Bazi-Ziwei-Qimen-Dunjia-Divination-System-Source-Code) | 八字、紫微斗数、奇门遁甲及相关排盘流程 | JavaScript |
 
@@ -115,13 +110,6 @@ OceanRaid 项目记录 Cocos/Lua 客户端、Python/C++ 服务端、Node.js 运�
 - 版本化下载应从对应项目的 GitHub Releases 页面获取。
 - 使用前请阅读对应项目的 README、LICENSE、SECURITY 和已知限制。
 
-- 
-## 联系方式
-
-电报：@xuzongbin001
-电子邮件：masterai918@gmail.com
-网站：https://masterai-top.github.io/masterai-top/
-核心方向：德州源码、德州大厅、德州赛事平台、德州俱乐部、德州AI、捕鱼游戏源码、周易软件。
 
 ## License and Responsible Use
 
@@ -132,5 +120,11 @@ OceanRaid 项目记录 Cocos/Lua 客户端、Python/C++ 服务端、Node.js 运�
 Licenses may differ by repository. Review the applicable license, third-party notices and local requirements before use, modification, redistribution or deployment.
 
 
+每个仓库分别说明公开源码范围、依赖、支持平台和许可证。商业部署、第三方资源、支付、游戏规则、隐私、非法人保护及地区合规要求需要按项目单独审查。公开文档不替代书面商业协议和技术验收清单。
 
 
+联系方式
+电报：@xuzongbin001
+电子邮件：masterai918@gmail.com
+网站：https://masterai-top.github.io/masterai-top/
+核心方向：德州源码、德州大厅、德州赛事平台、德州俱乐部、德州AI、捕鱼游戏源码、周易软件。

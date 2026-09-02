@@ -1,15 +1,9 @@
-[简体中文](README.md) | [English](README.en.md) | [繁體中文](README.zh-TW.md)
+[简体中文](README.md) | [繁體中文](README.zh-TW.md) | [English](README.en.md)
 
-# masterai-top
-
-Open-source poker AI, multiplayer game systems and Chinese metaphysics software by MasterAI. This document preserves the project's existing features, architecture, screenshots and usage notes; the repository contents remain authoritative.
-
-> Validate features, performance, operational history and deployment requirements against the current version. License and third-party asset terms are defined by repository files.
-
+# MasterAI Game Source Code, Poker AI and Software Projects
 
 MasterAI develops and curates Texas Hold'em platforms, point-based poker lobbies, tournament systems, CFR poker AI, multiplayer fishing games, and software based on traditional Chinese culture.
 Please refer to the code and documentation in the respective repositories for details regarding features, technology stacks, operational requirements, and licensing terms for each project.
-
 
 
 MasterAI develops and documents Texas Hold'em platforms, poker tournament systems, CFR poker AI, multiplayer fishing games, and Chinese metaphysics software.
@@ -22,8 +16,8 @@ MasterAI develops and documents Texas Hold'em platforms, poker tournament system
 | --- | --- | --- |
 | [Complete Texas Hold'em Solution](https://github.com/masterai-top/TexasHoldem-Poker-Complete-Solution) | Clubs, private rooms, friend games, SNG & MTT workflows | Unity, C++ |
 | [Texas Hold'em Tournament Platform](https://github.com/masterai-top/Texas-Holdem-Poker-Tournament-Event-Platform) | Registration, game tables, rankings, and tournament workflows | C++、Tars |
-| [Texas Hold'em Point Lobby](https://github.com/masterai-top/Texas-Hold-em-Points-Lobby) | Point/Gold lobbies, clubs, alliances, friend games, SNG, MTT, and operational modules | Unity、C++ |
-| [CFR Texas Hold'em AI](https://github.com/masterai-top/cfr-poker-ai-masterai) | CFR strategy training, evaluation, and game theory research | C++ ，python|
+| [Texas Hold'em Point Lobby](https://github.com/masterai-top/Texas-Hold-em-Points-Lobby) | Point/Gold lobbies, clubs, alliances, friend games, SNG, MTT, and operational modules |
+| [CFR Texas Hold'em AI](https://github.com/masterai-top/cfr-poker-ai-masterai) | CFR strategy training, evaluation, and game theory research | C++ |
 | [OceanRaid Fishing Game Platform](https://github.com/masterai-top/OceanRaid-Fishing-Game-Platform) | Client, game services, tournament modes, and operations backend | Cocos/Lua, Python/C++, Node.js |
 | [Bazi, Ziwei & Qimen Charting System](https://github.com/masterai-top/Bazi-Ziwei-Qimen-Dunjia-Divination-System-Source-Code) | Bazi, Ziwei Doushu, Qimen Dunjia, and related chart generation workflows | JavaScript |
 
@@ -110,13 +104,6 @@ it should not be used as a substitute for professional medical, legal, financial
 - Before use, please read the README, LICENSE, SECURITY, and known limitations of the respective project.
 
 
-## Contact Information
-
-Telegram: @xuzongbin001
-
-Email: masterai918@gmail.com
-Website: https://masterai-top.github.io/masterai-top/
-
 ## License and Responsible Use
 
 
@@ -132,7 +119,8 @@ Each repository details the scope of open-source code, dependencies, supported p
 Public documentation does not replace written commercial agreements or technical acceptance checklists.
 
 
-
-
+Contact Information
+Telegram: @xuzongbin001
+Email: masterai918@gmail.com
+Website: https://masterai-top.github.io/masterai-top/
 Core Focus: Texas Hold'em source code, lobby systems, tournament platforms, club management systems, Texas Hold'em AI, fishing game source code, and I Ching software.
-

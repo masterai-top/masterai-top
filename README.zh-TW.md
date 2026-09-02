@@ -1,24 +1,15 @@
-[简体中文](README.md) | [English](README.en.md) | [繁體中文](README.zh-TW.md)
+[简体中文](README.md) | [繁體中文](README.zh-TW.md) | [English](README.en.md)
 
-# 账号入口與專案导航 | masterai-top
-
-本專案聚焦账号入口與專案导航，保留線上現有 README 的功能、架構、截圖與使用說明，並以倉庫實際程式碼為準。
-
-> 專案功能、效能、營運記錄與部署能力應結合目前版本獨立驗證；授權與第三方素材範圍以倉庫檔案為準。
-
-
+# MasterAI 德州遊戲原始碼、撲克 AI 與周易占卜軟體專案導覽
 
 MasterAI 開發並整理德州撲克平台、德州積分大廳、 撲克賽事系統、CFR 撲克 AI、多人釣魚遊戲及中國傳統文化軟體。
 每個專案的功能、技術堆疊、運作條件和授權範圍以對應倉庫的程式碼與文件為準。
 
 
-
 MasterAI develops and documents Texas Hold'em platforms, poker tournament systems, CFR poker AI, multiplayer fishing games and Chinese metaphysics software.
 
 
-
 ## 核心專案 | Featured Projects
-
 
 
 | 專案 | 主要內容 | 技術方向 |
@@ -29,18 +20,16 @@ MasterAI develops and documents Texas Hold'em platforms, poker tournament system
 
 | [德州撲克賽事平台](https://github.com/masterai-top/Texas-Holdem-Poker-Tournament-Event-Platform) | 報名、牌桌、排名與錦標賽流程 | C++、Tars |
 
-| [德州積分大廳](https://github.com/masterai-top/Texas-Hold-em-Points-Lobby) | 德州積分大廳、金幣大廳、俱樂部、聯盟、朋友局、SNG、MTT 和配套營運模組 | Unity、C++ |
+| [德州積分大廳](https://github.com/masterai-top/Texas-Hold-em-Points-Lobby) | 德州積分大廳、金幣大廳、俱樂部、聯盟、朋友局、SNG、MTT 和配套營運模組 |
 
-| [CFR 德州撲克 AI](https://github.com/masterai-top/cfr-poker-ai-masterai) | CFR 策略訓練、評估與博弈研究 | C++ ,python|
+| [CFR 德州撲克 AI](https://github.com/masterai-top/cfr-poker-ai-masterai) | CFR 策略訓練、評估與博弈研究 | C++ |
 
 | [OceanRaid 釣魚遊戲平台](https://github.com/masterai-top/OceanRaid-Fishing-Game-Platform) | 用戶端、遊戲服務、比賽模式與營運後台 | Cocos/Lua、Python/C++、Node.js |
 
 | [八字、紫微與奇門排盤系統](https://github.com/masterai-top/Bazi-Ziwei-Qimen-Dunjia-Divination-System-Source-Code) | 八字、紫微鬥數、奇門遁甲及相關排盤流程 | JavaScript |
 
 
-
 ## 德州撲克平台 | Texas Hold'em Platform
-
 
 
 德州撲克主倉庫記錄 Unity 用戶端與 C++ 服務端相關模組，並涵蓋俱樂部、牌桌、好友局、SNG 和 MTT 等產品流程。
@@ -58,7 +47,6 @@ MasterAI develops and documents Texas Hold'em platforms, poker tournament system
 - [查看德州撲克賽事平台](https://github.com/masterai-top/Texas-Holdem-Poker-Tournament-Event-Platform)
 
 - [查看 CFR 撲克 AI](https://github.com/masterai-top/cfr-poker-ai-masterai)
-
 
 
 ## 德州積分大廳 | Texas Hold'em Points Lobby
@@ -90,7 +78,6 @@ MasterAI CFR 專案面向單挑無限注德州撲克策略研究，涵蓋 CFR、
 ## 釣魚遊戲平台 | Arcade Fishing Platform
 
 
-
 OceanRaid 專案記錄 Cocos/Lua 用戶端、Python/C++ 服務端、Node.js 營運介面及捕魚比賽相關頁面。
 圖片來自項目目前公開截圖目錄。
 <table>
@@ -102,9 +89,7 @@ OceanRaid 專案記錄 Cocos/Lua 用戶端、Python/C++ 服務端、Node.js 營�
 - [查看 OceanRaid 釣魚遊戲平台](https://github.com/masterai-top/OceanRaid-Fishing-Game-Platform)
 
 
-
 ## 週易與命理軟體 | Chinese Metaphysics Software
-
 
 
 綜合命理倉庫涵蓋八字、紫微鬥數、奇門遁甲及相關排盤展示。
@@ -120,9 +105,7 @@ OceanRaid 專案記錄 Cocos/Lua 用戶端、Python/C++ 服務端、Node.js 營�
 - [查看瀏覽器端週易排盤項目](https://github.com/masterai-top/Zhouyi-Divination-System-Source-Code)
 
 
-
 ## 下載與文件 | Downloads and Documentation
-
 
 
 - [全部公開倉庫](https://github.com/masterai-top?tab=repositories)
@@ -134,24 +117,19 @@ OceanRaid 專案記錄 Cocos/Lua 用戶端、Python/C++ 服務端、Node.js 營�
 - 使用前請閱讀對應項目的 README、LICENSE、SECURITY 和已知限制。
 
 
-
 ## License and Responsible Use
-
 
 
 各倉庫的許可證可能不同。
 在使用、修改、散佈或部署前，請檢查對應倉庫的 `LICENSE`、第三方依賴和素材授權，並遵守所在地法律及平台規則。
 
 
-
 Licenses may differ by repository. Review the applicable license, third-party notices and local requirements before use, modification, redistribution or deployment.
-
 
 
 每個倉庫分別說明公開原始碼範圍、依賴、支援平台和授權。
 商業部署、第三方資源、支付、遊戲規則、隱私、非法人保護及地區合規要求需依項目個別審查。
 公開文件不取代書面商業協議和技術驗收清單。
-
 
 
 聯絡方式
@@ -163,4 +141,3 @@ Licenses may differ by repository. Review the applicable license, third-party no
 網址：https://masterai-top.github.io/masterai-top/
 
 核心方向：德州原始碼、德州大廳、德州賽事平台、德州俱樂部、德州AI、釣魚遊戲原始碼、週易軟體。
-
