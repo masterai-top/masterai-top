@@ -110,6 +110,12 @@ it should not be used as a substitute for professional medical, legal, financial
 - Before use, please read the README, LICENSE, SECURITY, and known limitations of the respective project.
 
 
+## Contact Information
+
+Telegram: @xuzongbin001
+
+Email: masterai918@gmail.com
+Website: https://masterai-top.github.io/masterai-top/
 
 ## License and Responsible Use
 
@@ -127,9 +133,6 @@ Public documentation does not replace written commercial agreements or technical
 
 
 
-Contact Information
-Telegram: @xuzongbin001
-Email: masterai918@gmail.com
-Website: https://masterai-top.github.io/masterai-top/
+
 Core Focus: Texas Hold'em source code, lobby systems, tournament platforms, club management systems, Texas Hold'em AI, fishing game source code, and I Ching software.
 
