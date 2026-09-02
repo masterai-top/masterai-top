@@ -1,6 +1,6 @@
 # MasterAI | Poker AI, Texas Hold'em platforms and Chinese Metaphysics Software
 
-MasterAI 开发和整理德州扑克平台、德州积分大厅、 扑克赛事系统、CFR 扑克 AI、多人捕鱼游戏及中国传统文化软件。每个项目的功能、技术栈、运行条件和授权范围以对应仓库的代码与文档为准。
+MasterAI 开发和整理德州扑克俱乐部平台、德州积分大厅、 扑克赛事系统、CFR 扑克 AI、多人捕鱼游戏及中国传统文化软件。每个项目的功能、技术栈、运行条件和授权范围以对应仓库的代码与文档为准。
 
 MasterAI develops and documents Texas Hold'em platforms, poker tournament systems, CFR poker AI, multiplayer fishing games and Chinese metaphysics software.
 
@@ -8,10 +8,10 @@ MasterAI develops and documents Texas Hold'em platforms, poker tournament system
 
 | 项目 | 主要内容 | 技术方向 |
 | --- | --- | --- |
-| [德州扑克完整解决方案](https://github.com/masterai-top/TexasHoldem-Poker-Complete-Solution) | 俱乐部、私人房、好友局、SNG 与 MTT 流程 | Unity、C++ |
+| [德州扑克俱乐部完整解决方案](https://github.com/masterai-top/TexasHoldem-Poker-Complete-Solution) | 俱乐部、私人房、好友局、SNG 与 MTT 流程 | Unity、C++ |
 | [德州扑克赛事平台](https://github.com/masterai-top/Texas-Holdem-Poker-Tournament-Event-Platform) | 报名、牌桌、排名与锦标赛流程 | C++、Tars |
-| [德州积分大厅](https://github.com/masterai-top/Texas-Hold-em-Points-Lobby) | 德州积分大厅、金币大厅、俱乐部、联盟、朋友局、SNG、MTT 和配套运营模块  |
-| [CFR 德州扑克 AI](https://github.com/masterai-top/cfr-poker-ai-masterai) | CFR 策略训练、评估与博弈研究 | C++ |
+| [德州积分大厅](https://github.com/masterai-top/Texas-Hold-em-Points-Lobby) | 德州积分大厅、金币大厅、俱乐部、联盟、朋友局、SNG、MTT 和配套运营模块  |C++、Tars |
+| [CFR 德州扑克 AI](https://github.com/masterai-top/cfr-poker-ai-masterai) | CFR 策略训练、评估与博弈研究 | C++ ，python|
 | [OceanRaid 捕鱼游戏平台](https://github.com/masterai-top/OceanRaid-Fishing-Game-Platform) | 客户端、游戏服务、比赛模式与运营后台 | Cocos/Lua、Python/C++、Node.js |
 | [八字、紫微与奇门排盘系统](https://github.com/masterai-top/Bazi-Ziwei-Qimen-Dunjia-Divination-System-Source-Code) | 八字、紫微斗数、奇门遁甲及相关排盘流程 | JavaScript |
 
