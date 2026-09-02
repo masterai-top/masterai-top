@@ -20,9 +20,9 @@ MasterAI develops and documents Texas Hold'em platforms, poker tournament system
 
 | [德州撲克賽事平台](https://github.com/masterai-top/Texas-Holdem-Poker-Tournament-Event-Platform) | 報名、牌桌、排名與錦標賽流程 | C++、Tars |
 
-| [德州積分大廳](https://github.com/masterai-top/Texas-Hold-em-Points-Lobby) | 德州積分大廳、金幣大廳、俱樂部、聯盟、朋友局、SNG、MTT 和配套營運模組 |
+| [德州積分大廳](https://github.com/masterai-top/Texas-Hold-em-Points-Lobby) | 德州積分大廳、金幣大廳、俱樂部、聯盟、朋友局、SNG、MTT 和配套營運模組 | Unity、C++ |
 
-| [CFR 德州撲克 AI](https://github.com/masterai-top/cfr-poker-ai-masterai) | CFR 策略訓練、評估與博弈研究 | C++ |
+| [CFR 德州撲克 AI](https://github.com/masterai-top/cfr-poker-ai-masterai) | CFR 策略訓練、評估與博弈研究 | C++，python |
 
 | [OceanRaid 釣魚遊戲平台](https://github.com/masterai-top/OceanRaid-Fishing-Game-Platform) | 用戶端、遊戲服務、比賽模式與營運後台 | Cocos/Lua、Python/C++、Node.js |
 
