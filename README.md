@@ -1,85 +1,72 @@
-# MasterAI 德州源码、德州赛事、德州俱乐部完整解决方案与捕鱼、周易和德州 AI
+# MasterAI | Poker AI, Texas Hold'em platforms and Chinese Metaphysics Software
 
-MasterAI 聚焦德州扑克源码、德州赛事平台、德州俱乐部完整解决方案、德州 AI、捕鱼游戏平台、周易命理软件及多人实时游戏服务端项目。
+MasterAI 开发和整理德州扑克平台、德州积分大厅、 扑克赛事系统、CFR 扑克 AI、多人捕鱼游戏及中国传统文化软件。每个项目的功能、技术栈、运行条件和授权范围以对应仓库的代码与文档为准。
 
-[德州完整解决方案](https://github.com/masterai-top/TexasHoldem-Poker-Complete-Solution) · [德州赛事平台](https://github.com/masterai-top/Texas-Holdem-Poker-Tournament-Event-Platform) · [德州积分大厅](https://github.com/masterai-top/Texas-Hold-em-Points-Lobby) · [捕鱼游戏平台](https://github.com/masterai-top/OceanRaid-Fishing-Game-Platform) · [周易命理系统](https://github.com/masterai-top/Bazi-Ziwei-Qimen-Dunjia-Divination-System-Source-Code) · [德州 AI](https://github.com/masterai-top/cfr-poker-ai-masterai)
+MasterAI develops and documents Texas Hold'em platforms, poker tournament systems, CFR poker AI, multiplayer fishing games and Chinese metaphysics software.
 
-## 德州扑克完整解决方案
+## 核心项目 | Featured Projects
 
-### TexasHoldem Poker Complete Solution
+| 项目 | 主要内容 | 技术方向 |
+| --- | --- | --- |
+| [德州扑克完整解决方案](https://github.com/masterai-top/TexasHoldem-Poker-Complete-Solution) | 俱乐部、私人房、好友局、SNG 与 MTT 流程 | Unity、C++ |
+| [德州扑克赛事平台](https://github.com/masterai-top/Texas-Holdem-Poker-Tournament-Event-Platform) | 报名、牌桌、排名与锦标赛流程 | C++、Tars |
+| [德州积分大厅](https://github.com/masterai-top/Texas-Hold-em-Points-Lobby) | 德州积分大厅、金币大厅、俱乐部、联盟、朋友局、SNG、MTT 和配套运营模块  |
+| [CFR 德州扑克 AI](https://github.com/masterai-top/cfr-poker-ai-masterai) | CFR 策略训练、评估与博弈研究 | C++ |
+| [OceanRaid 捕鱼游戏平台](https://github.com/masterai-top/OceanRaid-Fishing-Game-Platform) | 客户端、游戏服务、比赛模式与运营后台 | Cocos/Lua、Python/C++、Node.js |
+| [八字、紫微与奇门排盘系统](https://github.com/masterai-top/Bazi-Ziwei-Qimen-Dunjia-Divination-System-Source-Code) | 八字、紫微斗数、奇门遁甲及相关排盘流程 | JavaScript |
 
-一套覆盖 Unity 客户端与 C++ 服务端的德州扑克完整解决方案，包含俱乐部、私人房、金币大厅、积分大厅、单挑、SNG、MTT 多桌锦标赛及多人实时对战相关模块。
+## 德州扑克平台 | Texas Hold'em Platform
 
-- 仓库：[TexasHoldem-Poker-Complete-Solution](https://github.com/masterai-top/TexasHoldem-Poker-Complete-Solution)
-- 主页：https://masterai-top.github.io/TexasHoldem-Poker-Complete-Solution/
+德州扑克主仓库记录 Unity 客户端与 C++ 服务端相关模块，并覆盖俱乐部、牌桌、好友局、SNG 和 MTT 等产品流程。实际部署前请独立验证依赖、性能、安全性和合规要求。
 
-关键词：`德州源码` `德州扑克源码` `Texas Holdem Source Code` `Poker Complete Solution` `Unity` `C++` `SNG` `MTT`
+<table>
+  <tr>
+    <td width="50%"><img src="https://raw.githubusercontent.com/masterai-top/TexasHoldem-Poker-Complete-Solution/main/Screenshots/%E5%88%9B%E5%BB%BA%E4%BF%B1%E4%B9%90%E9%83%A8.jpg" alt="德州扑克俱乐部创建界面 Texas Hold'em poker club creation" width="100%"></td>
+    <td width="50%"><img src="https://raw.githubusercontent.com/masterai-top/TexasHoldem-Poker-Complete-Solution/main/Screenshots/MTT%E8%B5%9B%E4%BA%8B.jpg" alt="德州扑克 MTT 锦标赛界面 Texas Hold'em MTT tournament" width="100%"></td>
+  </tr>
+</table>
 
-## 德州扑克赛事平台
+- [查看德州扑克完整方案](https://github.com/masterai-top/TexasHoldem-Poker-Complete-Solution)
+- [德州积分大厅](https://github.com/masterai-top/Texas-Hold-em-Points-Lobby)
+- [查看德州扑克赛事平台](https://github.com/masterai-top/Texas-Holdem-Poker-Tournament-Event-Platform)
+- [查看 CFR 扑克 AI](https://github.com/masterai-top/cfr-poker-ai-masterai)
 
-### Texas Hold'em Poker Tournament Event Platform
+## 捕鱼游戏平台 | Arcade Fishing Platform
 
-C++ 与 Tars 构建的德州扑克赛事服务端项目，覆盖比赛房间、玩家状态、多桌锦标赛、俱乐部、积分排名、报名与票务流程。
+OceanRaid 项目记录 Cocos/Lua 客户端、Python/C++ 服务端、Node.js 运营接口及捕鱼比赛相关页面。图片来自项目当前公开截图目录。
 
-- 仓库：[Texas-Holdem-Poker-Tournament-Event-Platform](https://github.com/masterai-top/Texas-Holdem-Poker-Tournament-Event-Platform)
-- 主页：https://masterai-top.github.io/Texas-Holdem-Poker-Tournament-Event-Platform/
+<table>
+  <tr>
+    <td width="50%"><img src="https://raw.githubusercontent.com/masterai-top/OceanRaid-Fishing-Game-Platform/main/docs/assets/screenshots/lobby.png" alt="OceanRaid 多人捕鱼游戏大厅 multiplayer fishing game lobby" width="100%"></td>
+    <td width="50%"><img src="https://raw.githubusercontent.com/masterai-top/OceanRaid-Fishing-Game-Platform/main/docs/assets/screenshots/tournament-mode.png" alt="OceanRaid 多人捕鱼比赛模式 arcade fishing tournament" width="100%"></td>
+  </tr>
+</table>
 
-关键词：`德州赛事` `Poker Tournament Platform` `MTT` `SNG` `C++` `Tars` `Protobuf` `MySQL`
+- [查看 OceanRaid 捕鱼游戏平台](https://github.com/masterai-top/OceanRaid-Fishing-Game-Platform)
 
-## 德州金币大厅与积分大厅
+## 周易与命理软件 | Chinese Metaphysics Software
 
-| 项目 | 主要内容 |
-| --- | --- |
-| [Texas-Holdem-Poker-Game-Source-Code](https://github.com/masterai-top/Texas-Holdem-Poker-Game-Source-Code) | Jinbei 俱乐部，支持经典德州、AOF、6+短牌、SNG、MTT、德州牛仔、奥马哈、大菠萝 8 个玩法 |
-| [Texas-Hold-em-Points-Lobby](https://github.com/masterai-top/Texas-Hold-em-Points-Lobby) | 德州积分大厅、金币大厅、俱乐部、联盟、朋友局、SNG、MTT 和配套运营模块 |
-| [Texas-Holdem-Poker-Multiplayer-Source-Code-Pro](https://github.com/masterai-top/TexasHoldem-Poker-Multiplayer-Source-Code-Pro) | 多人德州扑克源码、俱乐部系统、实时牌局和完整产品页面 |
+综合命理仓库覆盖八字、紫微斗数、奇门遁甲及相关排盘展示。内容用于软件与传统文化算法研究，不应替代医疗、法律、财务或其他专业建议。
 
-## 德州扑克 AI
+<table>
+  <tr>
+    <td width="50%"><img src="https://raw.githubusercontent.com/masterai-top/Bazi-Ziwei-Qimen-Dunjia-Divination-System-Source-Code/main/Screenshots/baizhipaipan.png" alt="八字排盘软件界面 Bazi Four Pillars chart" width="100%"></td>
+    <td width="50%"><img src="https://raw.githubusercontent.com/masterai-top/Bazi-Ziwei-Qimen-Dunjia-Divination-System-Source-Code/main/Screenshots/wuxing.png" alt="五行分析软件界面 Five Elements analysis" width="100%"></td>
+  </tr>
+</table>
 
-| 项目 | 研究方向 |
-| --- | --- |
-| [cfr-poker-ai-masterai](https://github.com/masterai-top/cfr-poker-ai-masterai) | CFR 德州扑克策略、强化学习和实时决策系统 |
-| [Texas Hold'em Poker AI Heads-Up Engine](https://github.com/masterai-top/Texas-Holdem-Poker-AI-Heads-Up-Engine) | 德州扑克单挑 AI、博弈引擎和实时决策架构 |
-| [CFR Poker AI Engine Texas Hold'em](https://github.com/masterai-top/CFR-Poker-AI-Engine-Texas-Holdem) | C++ 扑克 AI 引擎、模型与策略系统研究 |
+- [查看综合命理排盘系统](https://github.com/masterai-top/Bazi-Ziwei-Qimen-Dunjia-Divination-System-Source-Code)
+- [查看浏览器端周易排盘项目](https://github.com/masterai-top/Zhouyi-Divination-System-Source-Code)
 
-## 捕鱼游戏平台
+## 下载与文档 | Downloads and Documentation
 
-### OceanRaid Arcade Fishing Game Platform
+- [全部公开仓库](https://github.com/masterai-top?tab=repositories)
+- [MasterAI 项目网站](https://masterai-top.github.io/masterai-top/)
+- 版本化下载应从对应项目的 GitHub Releases 页面获取。
+- 使用前请阅读对应项目的 README、LICENSE、SECURITY 和已知限制。
 
-采用 Cocos/Lua 客户端、Python/C++ 服务端和 Node.js 运营 API 的捕鱼游戏全栈源码，包含经典捕鱼、比赛模式、玉石场、海魔来袭、多种休闲玩法及产品截图。
+## License and Responsible Use
 
-- 仓库：[OceanRaid-Fishing-Game-Platform](https://github.com/masterai-top/OceanRaid-Fishing-Game-Platform)
-- 主页：https://masterai-top.github.io/OceanRaid-Fishing-Game-Platform/
+各仓库的许可证可能不同。使用、修改、分发或部署前，请检查对应仓库的 `LICENSE`、第三方依赖和素材授权，并遵守所在地法律及平台规则。
 
-关键词：`捕鱼源码` `Arcade Fishing Game` `Cocos` `Lua` `Python` `C++` `Node.js`
-
-## 周易与命理软件
-
-| 项目 | 主要内容 |
-| --- | --- |
-| [Bazi-Ziwei-Qimen-Dunjia-Divination-System-Source-Code](https://github.com/masterai-top/Bazi-Ziwei-Qimen-Dunjia-Divination-System-Source-Code) | 八字、紫微斗数、奇门遁甲、七政四余、大六壬、大运与流年等综合排盘系统 |
-| [Zhouyi-Divination-System-Source-Code](https://github.com/masterai-top/Zhouyi-Divination-System-Source-Code) | 周易、八字排盘、六壬、七政四余、五行分析和传统文化应用源码 |
-
-关键词：`周易源码` `八字排盘` `紫微斗数` `奇门遁甲` `七政四余` `大六壬`
-
-## 其他游戏与软件主题
-
-- 多人实时游戏客户端、房间服务和游戏后台
-- Unity、Cocos、Lua、C#、C++、Python、Java 与 Node.js 项目
-- 棋牌游戏、俱乐部、赛事、排名与运营系统
-- 企业 IM、办公聊天与通信软件
-- Android、iOS、H5、Web 与 PC 产品基础
-
-浏览 [masterai-top 全部仓库](https://github.com/masterai-top?tab=repositories) 查看其他游戏和应用软件项目。
-
-## 项目与授权说明
-
-每个仓库分别说明公开源码范围、依赖、支持平台和许可证。商业部署、第三方资源、支付、游戏规则、隐私、未成年人保护及地区合规要求需要按项目单独审查。公开文档不替代书面商业协议和技术验收清单。
-
-## 联系方式
-
-- Telegram：`@xuzongbin001`
-- Email：`masterai918@gmail.com`
-- Website：https://masterai-top.github.io/masterai-top/
-
-核心方向：德州源码、德州扑克完整解决方案、德州赛事平台、德州俱乐部、德州 AI、捕鱼游戏源码、周易软件与多人游戏服务端。
+Licenses may differ by repository. Review the applicable license, third-party notices and local requirements before use, modification, redistribution or deployment.
