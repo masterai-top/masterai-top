@@ -93,7 +93,13 @@ it should not be used as a substitute for professional medical, legal, financial
 - [View Comprehensive Numerology/Divination Charting System](https://github.com/masterai-top/Bazi-Ziwei-Qimen-Dunjia-Divination-System-Source-Code)
 - [View Browser-based I Ching Charting Project](https://github.com/masterai-top/Zhouyi-Divination-System-Source-Code)
 
+## Contact Information
 
+Telegram: @xuzongbin001
+
+Email: masterai918@gmail.com
+
+Website: https://masterai-top.github.io/masterai-top/
 ## Downloads and Documentation
 
 
@@ -119,8 +125,9 @@ Each repository details the scope of open-source code, dependencies, supported p
 Public documentation does not replace written commercial agreements or technical acceptance checklists.
 
 
-Contact Information
-Telegram: @xuzongbin001
-Email: masterai918@gmail.com
-Website: https://masterai-top.github.io/masterai-top/
+
+
+
+
+
 Core Focus: Texas Hold'em source code, lobby systems, tournament platforms, club management systems, Texas Hold'em AI, fishing game source code, and I Ching software.
