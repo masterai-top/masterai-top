@@ -16,7 +16,7 @@ MasterAI develops and documents Texas Hold'em platforms, poker tournament system
 | --- | --- | --- |
 | [Complete Texas Hold'em Solution](https://github.com/masterai-top/TexasHoldem-Poker-Complete-Solution) | Clubs, private rooms, friend games, SNG & MTT workflows | Unity, C++ |
 | [Texas Hold'em Tournament Platform](https://github.com/masterai-top/Texas-Holdem-Poker-Tournament-Event-Platform) | Registration, game tables, rankings, and tournament workflows | C++、Tars |
-| [Texas Hold'em Point Lobby](https://github.com/masterai-top/Texas-Hold-em-Points-Lobby) | Point/Gold lobbies, clubs, alliances, friend games, SNG, MTT, and operational modules |
+| [Texas Hold'em Point Lobby](https://github.com/masterai-top/Texas-Hold-em-Points-Lobby) | Point/Gold lobbies, clubs, alliances, friend games, SNG, MTT, and operational modules | Unity、C++ |
 | [CFR Texas Hold'em AI](https://github.com/masterai-top/cfr-poker-ai-masterai) | CFR strategy training, evaluation, and game theory research | C++ |
 | [OceanRaid Fishing Game Platform](https://github.com/masterai-top/OceanRaid-Fishing-Game-Platform) | Client, game services, tournament modes, and operations backend | Cocos/Lua, Python/C++, Node.js |
 | [Bazi, Ziwei & Qimen Charting System](https://github.com/masterai-top/Bazi-Ziwei-Qimen-Dunjia-Divination-System-Source-Code) | Bazi, Ziwei Doushu, Qimen Dunjia, and related chart generation workflows | JavaScript |
