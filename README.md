@@ -1,8 +1,8 @@
 [简体中文](README.md) | [繁體中文](README.zh-TW.md) | [English](README.en.md)
 
-# MasterAI 德州扑克源码、德州积分大厅、德州赛事源码，捕鱼、扑克 AI 与周易排盘软件项目导航
+# MasterAI 游戏源码、德州扑克 AI 与传统文化软件
 
-MasterAI 开发和整理德州扑克平台、德州积分大厅、 扑克赛事系统、CFR 扑克 AI、多人捕鱼游戏及中国传统文化软件。每个项目的功能、技术栈、运行条件和授权范围以对应仓库的代码与文档为准。
+MasterAI 开发和整理游戏服务端、人工智能与传统文化软件项目，主要包括**德州扑克源码、德州赛事平台、德州扑克 AI、街机捕鱼游戏源码，以及八字排盘与周易软件**。本页是全部核心项目的官方导航；具体功能、技术栈、运行条件和授权范围以对应仓库的代码与文档为准。
 
 
 MasterAI develops and documents Texas Hold'em platforms, poker tournament systems, CFR poker AI, multiplayer fishing games and Chinese metaphysics software.
@@ -13,12 +13,12 @@ MasterAI develops and documents Texas Hold'em platforms, poker tournament system
 
 | 项目 | 主要内容 | 技术方向 |
 | --- | --- | --- |
-| [德州扑克完整解决方案](https://github.com/masterai-top/TexasHoldem-Poker-Complete-Solution) | 俱乐部、私人房、好友局、SNG 与 MTT 流程 | Unity、C++ |
-| [德州扑克赛事平台](https://github.com/masterai-top/Texas-Holdem-Poker-Tournament-Event-Platform) | 报名、牌桌、排名与锦标赛流程 | C++、Tars |
-| [德州积分大厅](https://github.com/masterai-top/Texas-Hold-em-Points-Lobby) | 德州积分大厅、金币大厅、俱乐部、联盟、朋友局、SNG、MTT 和配套运营模块  | Unity、C++ |
-| [CFR 德州扑克 AI](https://github.com/masterai-top/cfr-poker-ai-masterai) | CFR 策略训练、评估与博弈研究 | C++ ，python|
-| [OceanRaid 捕鱼游戏平台](https://github.com/masterai-top/OceanRaid-Fishing-Game-Platform) | 客户端、游戏服务、比赛模式与运营后台 | Cocos/Lua、Python/C++、Node.js |
-| [八字、紫微与奇门排盘系统](https://github.com/masterai-top/Bazi-Ziwei-Qimen-Dunjia-Divination-System-Source-Code) | 八字、紫微斗数、奇门遁甲及相关排盘流程 | JavaScript |
+| [德州扑克源码完整解决方案](https://github.com/masterai-top/TexasHoldem-Poker-Complete-Solution) | 俱乐部、私人房、好友局、SNG 与 MTT 流程 | Unity、C++ |
+| [德州扑克赛事平台源码](https://github.com/masterai-top/Texas-Holdem-Poker-Tournament-Event-Platform) | SNG、MTT、线上赛事与线下活动流程 | C++、Tars |
+| [德州扑克积分大厅源码](https://github.com/masterai-top/Texas-Hold-em-Points-Lobby) | 金币大厅、俱乐部、短牌和多人赛事 | C++、Tars |
+| [CFR 德州扑克 AI 源码](https://github.com/masterai-top/cfr-poker-ai-masterai) | CFR 策略训练、评估与博弈研究 | C++、Python |
+| [OceanRaid 街机捕鱼游戏源码](https://github.com/masterai-top/OceanRaid-Fishing-Game-Platform) | Lua 客户端模块、游戏服务、比赛模式与运营后台 | Lua、Python、C++、Node.js |
+| [八字排盘与周易术数系统源码](https://github.com/masterai-top/Bazi-Ziwei-Qimen-Dunjia-Divination-System-Source-Code) | 八字、五行、大六壬、七政四余及紫微、奇门扩展方向 | HTML、JavaScript、Java |
 
 
 ## 德州扑克平台 | Texas Hold'em Platform
@@ -104,10 +104,9 @@ OceanRaid 项目记录 Cocos/Lua 客户端、Python/C++ 服务端、Node.js 运�
 
 ## 联系方式
 
-电报：@xuzongbin001
-
-电子邮件：masterai918@gmail.com
-网站：https://masterai-top.github.io/masterai-top/
+- Telegram：[@xuzongbin001](https://t.me/xuzongbin001)
+- Email：[masterai918@gmail.com](mailto:masterai918@gmail.com)
+- Website：[MasterAI 项目导航](https://masterai-top.github.io/masterai-top/)
 
 ## 下载与文档 | Downloads and Documentation
 
@@ -127,7 +126,4 @@ OceanRaid 项目记录 Cocos/Lua 客户端、Python/C++ 服务端、Node.js 运�
 Licenses may differ by repository. Review the applicable license, third-party notices and local requirements before use, modification, redistribution or deployment.
 
 
-每个仓库分别说明公开源码范围、依赖、支持平台和许可证。商业部署、第三方资源、支付、游戏规则、隐私、非法人保护及地区合规要求需要按项目单独审查。公开文档不替代书面商业协议和技术验收清单。
-
-
-核心方向：德州源码、德州大厅、德州赛事平台、德州俱乐部、德州AI、捕鱼游戏源码、周易软件。
+每个仓库分别说明公开源码范围、依赖、支持平台和许可证。商业部署、第三方资源、支付、游戏规则、隐私、未成年人保护及地区合规要求需要按项目单独审查。公开文档不替代书面商业协议和技术验收清单。
