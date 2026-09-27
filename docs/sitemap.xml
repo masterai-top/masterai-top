@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
-    <loc>https://masterai-top.github.io/masterai-top/</loc>
-    <lastmod>2026-08-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>1.0</priority>
-  </url>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<url><loc>https://masterai-top.github.io/masterai-top/</loc><xhtml:link rel="alternate" hreflang="zh-CN" href="https://masterai-top.github.io/masterai-top/zh-cn/"/><xhtml:link rel="alternate" hreflang="zh-TW" href="https://masterai-top.github.io/masterai-top/zh-tw/"/><xhtml:link rel="alternate" hreflang="en" href="https://masterai-top.github.io/masterai-top/en/"/></url>
+<url><loc>https://masterai-top.github.io/masterai-top/zh-cn/</loc></url><url><loc>https://masterai-top.github.io/masterai-top/zh-tw/</loc></url><url><loc>https://masterai-top.github.io/masterai-top/en/</loc></url>
 </urlset>

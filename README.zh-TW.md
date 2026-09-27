@@ -1,12 +1,9 @@
-[简体中文](README.md) | [繁體中文](README.zh-TW.md) | [English](README.en.md)
+[简体中文](README.md) | [繁體中文](README.zh-TW.md) | [English](README.en.md) | [圖文專案導覽](https://masterai-top.github.io/masterai-top/zh-tw/)
 
 # MasterAI 德州遊戲原始碼、德州俱乐部、德州金币大厅、撲克 AI 與周易占卜軟體專案導覽
 
 MasterAI 開發並整理德州撲克平台、德州積分大廳、 撲克賽事系統、CFR 撲克 AI、多人釣魚遊戲及中國傳統文化軟體。
 每個專案的功能、技術堆疊、運作條件和授權範圍以對應倉庫的程式碼與文件為準。
-
-
-MasterAI develops and documents Texas Hold'em platforms, poker tournament systems, CFR poker AI, multiplayer fishing games and Chinese metaphysics software.
 
 
 ## 核心專案 | Featured Projects

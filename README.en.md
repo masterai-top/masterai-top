@@ -1,12 +1,9 @@
-[简体中文](README.md) | [繁體中文](README.zh-TW.md) | [English](README.en.md)
+[简体中文](README.md) | [繁體中文](README.zh-TW.md) | [English](README.en.md) | [Visual project directory](https://masterai-top.github.io/masterai-top/en/)
 
 # MasterAI Game Source Code, Poker AI and Software Projects
 
 MasterAI develops and curates Texas Hold'em platforms, point-based poker lobbies, tournament systems, CFR poker AI, multiplayer fishing games, and software based on traditional Chinese culture.
 Please refer to the code and documentation in the respective repositories for details regarding features, technology stacks, operational requirements, and licensing terms for each project.
-
-
-MasterAI develops and documents Texas Hold'em platforms, poker tournament systems, CFR poker AI, multiplayer fishing games, and Chinese metaphysics software.
 
 
 ## Featured Projects
